@@ -2,77 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baf22487-92ac-41d9-a03b-e17ddbd8a3a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/1997-11-01-An-Efficient-Transmission-Mechanism" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/1997-11-01-An-Efficient-Transmission-Mechanism" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2000-01-01-VBR-Video-Streams" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2000-01-01-VBR-Video-Streams" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2001-11-16-Parity-Cloud-Service" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2001-11-16-Parity-Cloud-Service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2003-07-06-Node-Selection" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-07-06-Node-Selection" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2003-09-01-Aggregated-Smoothing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-09-01-Aggregated-Smoothing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2004-03-01-A-New-Block-Fetching-Scheme" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2004-03-01-A-New-Block-Fetching-Scheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2004-07-01-A-Framework-for-Fault-Tolerant-Peer-to-Peer-Streaming" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2004-07-01-A-Framework-for-Fault-Tolerant-Peer-to-Peer-Streaming" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2005-01-26-A-Flexible-System-Architecture" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-A-Flexible-System-Architecture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2005-01-26-An-Object-Level-Web-Caching-Mechanism" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-An-Object-Level-Web-Caching-Mechanism" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2005-01-26-Design-and-Implementation-of-Platform-Profile-Analyzer" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-Design-and-Implementation-of-Platform-Profile-Analyzer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2006-01-04-Harmonic-Data-Placement" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-01-04-Harmonic-Data-Placement" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2006-10-01-FTL-비휘발성-메모리-기반-쓰기-버퍼의-활용" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-10-01-FTL-비휘발성-메모리-기반-쓰기-버퍼의-활용" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2006-5-22-Harmonic-Interleaving-File-System-Support" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-05-22-Harmonic-Interleaving-File-System-Support" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2007-10-01-IPSiNS-저장장치를-위한-입출력-성능-시뮬레이션-도구" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2007-10-01-IPSiNS-저장장치를-위한-입출력-성능-시뮬레이션-도구" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2007-8-26-LIRS-WSR-Integration-of-LIRS-and-Write-Sequence-Reordering" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2007-8-26-LIRS-WSR-Integration-of-LIRS-and-Write-Sequence-Reordering" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2008-08-01-LRU-WSR-Integration-of-LRU-and-Writes-Sequence-Reordering" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2008-08-01-LRU-WSR-Integration-of-LRU-and-Writes-Sequence-Reordering" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2008-09-22-Accessing-Files-in-Storage-Class" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2008-09-22-Accessing-Files-in-Storage-Class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2009-05-01-Embedded-NAND-Flash-File-System" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-05-01-Embedded-NAND-Flash-File-System" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2009-10-11-Collective-Intelligence-based-Web-Page-Search" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-10-11-Collective-Intelligence-based-Web-Page-Search" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2009-10-12-Identifying-the-FTL-Mapping-Schemes" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-10-12-Identifying-the-FTL-Mapping-Schemes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2010-05-01-A-Fast-and-Progressive-Algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-05-01-A-Fast-and-Progressive-Algorithm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2010-06-01-CPS-Operating-System-Architecture" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-06-01-CPS-Operating-System-Architecture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2010-08-18-Building-Concept-Network-based" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-08-18-Building-Concept-Network-based" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2010-12-28-A-Semantic-Concepts" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-12-28-A-Semantic-Concepts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2011-04-10-Adaptive-Delay-based-Congestion-Control" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2011-04-10-Adaptive-Delay-based-Congestion-Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2011-10-01-Athanasia-A-User-Transparent-and-Fault-Tolerant-System" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2011-10-01-Athanasia-A-User-Transparent-and-Fault-Tolerant-System" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2012-04-16-Deduplication-in-SSDs" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2012-04-16-Deduplication-in-SSDs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2013-09-08-Home-Cloud-Computing-Framework" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2013-09-08-Home-Cloud-Computing-Framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2014-04-01-Integrated-Write-Buffer-Management" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2014-04-01-Integrated-Write-Buffer-Management" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2014-12-01-IO-Workload-Characterization-Revisited" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2014-12-01-IO-Workload-Characterization-Revisited" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2015-03-01-Design-Trade-Offs-of-SSDs" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-03-01-Design-Trade-Offs-of-SSDs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2015-04-13-Dual-Region-Write-Buffering" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-04-13-Dual-Region-Write-Buffering" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2015-09-21-Feasibility-of-the-Computation-Task-Offloading" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-09-21-Feasibility-of-the-Computation-Task-Offloading" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2015-09-21-Fine-Grained,-Adaptive-Resource-Sharing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-09-21-Fine-Grained,-Adaptive-Resource-Sharing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2016-04-04-Mobile-Platform-Support" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-04-04-Mobile-Platform-Support" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2016-06-01-Exploiting-Compression-Induced-Internal-Fragmentation" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-06-01-Exploiting-Compression-Induced-Internal-Fragmentation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2016-06-26-Demo-CollaboRoid-for-Mobile" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-06-26-Demo-CollaboRoid-for-Mobile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2017-09-05-AUTOBAHN-Accelerating-Concurrent" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2017-09-05-AUTOBAHN-Accelerating-Concurrent" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2018-11-12-Hierarchical-Recursive-Resource-Sharing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-11-12-Hierarchical-Recursive-Resource-Sharing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DONE/2019-06-30-Border-Collie-A-Wait-free" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2019-06-30-Border-Collie-A-Wait-free" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile-Collaborative-Computing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/Mobile-Collaborative-Computing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modeling the Caching Effect in Continuous Media Servers" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-11-01-Modeling-the-Caching-Effect" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotDone/2016-Exploiting-Remote-GPGPU" beforeDir="false" afterPath="$PROJECT_DIR$/NotDone/2016-01-01-Exploiting-Remote-GPGPU" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotDone/AutoBahn- A Concurrency Control Framework" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/AutoBahn- A Concurrency Control Framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotDone/CollaboRoid- Mobile Platform Support" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/CollaboRoid- Mobile Platform Support" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PCS- A Parity-based Personal Data Recovery Service in Cloud" beforeDir="false" afterPath="$PROJECT_DIR$/NotDone/2017-01-01-PCS-A-Parity-based-Personal-Data-Recovery-Service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PWF- Reducing Write Response Time in Flash Memory-based Storage Devices" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2012-10-02-PWF-Reducing-Write-Response-Time-in-Flash-Memory-based-Storage-Devices" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Partial Page Buffering for Consumer Devices with Flash Storage" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2013-9-8-Partial-Page-Buffering-for-Consumer-evices" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patent/2003-12-01-중복-데이터-제거-시스템-및-방법" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/중복-데이터-제거-시스템-및-방법" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patent/2016-5-29-METHOD-AND-APPARATUS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patent/2016.11.22 GROUPING METHOD AND DEVICE" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016-11-22-GROUPING-METHOD-AND-DEVICE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patent/2016.12.6 APPARATUS AND METHOD" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016-12-06-APPARATUS-AND-METHOD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patent/DATA PATTERN DETECTING DEVICE" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/DATA-PATTERN-DETECTING-DEVICE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pay Migration Tax to Homeland- Anchor-based Scalable Reference Counting for Multicores" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2019-2-25-Pay-Migration-Tax" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Performance Evaluation of a Remote Memory System with Commodity Hardware for Large-Memory Data Processing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2011-12-01-Performance-Evaluation-of-a-Remote-Memory-System" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Performance Evaluation of the SSD-based Swap System for Big Data Processing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2014-09-24-Performance-Evaluation-of-the-SSD-based-Swap-System" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Performance Tradeoffs in Using NVRAM Write Buffer for Flash Memory-based Storage Devices" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-06-01-Performance-Tradeoffs-in-Using-NVRAM-Write-Buffer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Placement of Multi-Rate Smoothed VBR Video Objects to MZR Disks" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2000-07-30-Placement-of-Multi-Rate-Smoothed-VBR-Video-Objects-to-MZR-Disks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platform Support for Mobile Edge Computing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2017-6-25-Platform-Support" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Providing Fault Tolerance for Peer-to-Peer Streaming Service" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-7-23-Providing-Fault-Tolerance-for-Peer-to-Peer-Streaming-Service" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report on Workshop on Operating Systems Support for Next Generation Large Scale NVRAM (NVRAMOS 2009)" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-06-01-Report-on-Workshop-on-Operating-Systems-Support" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SAMD Apps- Install Once, Run Anywhere Instantly" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-03-19-SAMD-Apps-Install-Once,-Run-Anywhere-Instantly" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SAMD- Fine-grained Application Sharing for Mobile Collaboration" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-03-19-SAMD-Fine-grained-Application-Sharing-for-Mobile-Collaboration" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMFS- Semantic Multimedia Filesystem for Mobile Multimedia Devices" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2012-10-02-SMFS-Semantic-Multimedia-Filesystem-for-Mobile-Multimedia-Devices" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scalable Database Logging for Multicores" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-08-27-Scalable-Database-Logging-for-Multicores" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shadow Block- Imposing Block Device Abstraction on Storage Class Memory" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-10-15-Shadow-Block-Imposing-Block-Device-Abstraction-on-Storage-Class-Memory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Smoothed Fetching- Bridging the Data Layout and Transmission Schemes in Multimedia Servers" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2002-03-10-Smoothed-Fetching-Bridging-the-Data-Layout-and-Transmission-Schemes-in-Multimedia-Servers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotDone/2016-01-01-Exploiting-Remote-GPGPU" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-Exploiting-Remote-GPGPU" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotDone/2017-01-01-PCS-A-Parity-based-Personal-Data-Recovery-Service" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2017-PCS-A-Parity-based-Personal-Data-Recovery-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSD Characterization- From Energy Consumption’s Perspective" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSD를 위한 로그 기반 파일시스템의 개선" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSD를 위한 비대칭 버퍼 관리 기법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSD를 위한 쓰기버퍼와 로그블록 통합 관리의 필요성" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSD에서의 시맨틱 파일 검색을 위한 확장된 속성 제공의 로그 기반 파일시스템" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistical Admission Control for Soft Real-Time VOD Servers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Storage Technique for Real-Time Streaming of Layered Video" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Storing Continuous Media Objects to Multi-Zone Recording Disks Using Multi-Rate Smoothing Technique" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Storing Multi-Rate Smoothed VBR Objects to MZR Disk Array" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supporting Block Device Abstraction on Storage Class Memory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supporting Multi-Devices for Ubiquitous Learning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T-Learning을 위한 D-TV 컨텐츠의 설계 및 구현" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP-GT- A New Approach to Congestion Control Based on  Goodput and Throughput" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tele-Science- 원격지의 장비를 활용한 과학-기술 연구 활동" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transmission of Video Streams with Constant Bandwidth Allocation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using Non-Volatile RAM as a Write Buffer for NAND Flash Memory-based Storage Devices" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilizing Personalized Tag Recommendation Model in Web Page Search" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VSSIM- Virtual Machine based SSD Simulator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Write Buffer-aware Address Mapping for NAND Flash Memory Devices" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zf-FTL- A Zero-Free Flash Translation Layer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/개념 네트워크 기반 개인화 검색 시스템의 설계 및 구현" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/개인화 웹 검색 시스템 기반의 문서 요약 시스템" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/건설분야의 그리드 기술 활용- KOCED 프로그램" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/계층적으로 압축된 비디오 데이터의 적응적 스트리밍을 위한 파일시스템 저장 기법 연구" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/그리드 기술을 이용한 공학 교육 및 연구의 새로운 패러다임" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/기업정보 유출 방지를 위한 통합 로그 분석 시스템 설계 및 검증" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/다양한 블록 크기를 지원하는 주소 사상을 사용하여 플래시 메모리 내에 데이터를 저장하는 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/독출 오류를 방지하는 비휘발성 메모리의 제어 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/드라이브 컨트롤러를 포함하는 저장 장치 및 상기 드라이브 컨트롤러가 수행하는 주소 사상 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/드라이브 컨트롤러를 포함하는 저장 장치, 상기 드라이브 컨트롤러가 수행하는 가비지 컬렉션 수행 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/디바이스 간의 자원공유 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/디바이스 컨트롤러를 포함하는 저장 장치, 상기 디바이스 컨트롤러가 수행하는 입출력 분산 처리 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/멀티미디어 스트리밍 서버를 위한 SSD와 HDD 혼합 스토리지 구조" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/멀티플랫폼 기반 e-러닝 서비스를 위한 플랫폼 프로파일 분석기 설계 및 구현" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/메모리 제어 방법 및 메모리 제어 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/메모리 컨트롤러를 포함하는 메모리 디바이스, 상기 메모리 컨트롤러가 수행하는 데이터 저장 방법 및 데이터 복구 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/복수의 플래시 메모리 컨트롤러를 포함하는 솔리드 스테이트 드라이브 및 상기 플래시 메모리 컨트롤러가 수행하는 압축 해제 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/분산공유형 건설연구 인프라 구축사업에 있어 그리드 시스템 구축의 의미" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/블록 해제 정보를 사용하여 로그 데이터를 저장하는 시스템 및 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/비휘발성 메모리 기반의 전자 장치의 메타 데이터 복원 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/비휘발성 메모리의 페이지 관리 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/사용자 프로파일을 통한 개인화 문장 추출 시스템 설계" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/사용자의 요청을 예측하여 컨텐츠를 관리하는 멀티미디어 서버 및 그 관리 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/소모전력에 기반한 데이터 기록 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/스토리지 시스템의 계층 통합을 통한 플래시메모리 기반 DBMS의 성능 향상에 대한 연구" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/스트림 기반의 비휘발성 메모리 제어 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/연속미디어 서버에서의 최적 캐슁" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인터넷 패리티에 기반하여 데이터를 복구하는 방법, 장치 및 시스템" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력 핀을 이용한 다중 웨이 낸드 플래시 제어 장치 및 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/저장장치에 대한 입출력 특성 분류 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/저장장치에서 블룸필터를 적용한 역매핑 방법 및 시스템" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/저장장치에서 중복제거 성능 향상을 위한 그룹핑 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/저장장치에서 중복제거 성능 향상을 위한 맵핑 관리 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/차세대 비휘발성 메모리 기반 운영체제 연구의 필요성" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/콘텐츠 적응화 시스템에서의 다양한 프로파일을 지원하기 위한 유연성있는 메커니즘" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/콘텐츠 적응화를 위한 객체 기반 웹 캐슁 메커니즘" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/특성 정보를 이용한 비디오 스트림의 효율적 전송" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/파티션에 따라서 저장 위치를 물리적으로 구분하는 NVRAM 기반의 저장 장치 및 상기 저장 장치의 동작" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/페이지 삭제정보를 활용하는 플래시 저장장치의 구조" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/폭소노미 기반 개인화 웹 검색 방법 및 이를 수행하는 시스템" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/폭소노미 기반 개인화 웹 검색 시스템" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/플래쉬메모리 기반 저장시스템의 성능 분석을 위한 I-O 트레이스 가시화 도구 개발" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/플래쉬메모리를 위한 Not-cold-page 쓰기 지연을 통한 LRU 버퍼 교체 정책 개선" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/플래시 메모리 저장장치의 페이지 교체 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/플래시 메모리를 사용하는 저장장치 시스템에서 쓰기 버퍼의 안정성을 보장하는 관리 장치 및 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/플래시메모리에 기반한 SSD에서의 전원 손실 복구 방법 및 장치" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/플래시메모리와 연동되는 페이지 버퍼관리 장치 및 방법, 그리고 플래시 메모리의 페이지 교체 장치 및 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/플래시메모리용 DBMS를 위한 스토리지 시스템의 계층 통합에 대한 연구" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,15 +84,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Patent/2016-11-22-GROUPING-METHOD-AND-DEVICE">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Patent/2016-12-06-APPARATUS-AND-METHOD">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,13 +118,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Patent/비휘발성-메모리-기반의-전자-장치의-메타-데이터-복원-방법-및-장치">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="209">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DONE/2016-Exploiting-Remote-GPGPU">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -252,7 +247,7 @@
             <path>
               <item name="HomePageCrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomePageCrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="Patent" type="462c0819:PsiDirectoryNode" />
+              <item name="DONE" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,6 +267,7 @@
       <recent name="D:\KJH\Project\HomePageCrawler\TEMP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\KJH\Project\HomePageCrawler\TEMP" />
       <recent name="D:\KJH\Project\HomePageCrawler\DONE" />
       <recent name="D:\KJH\Project\HomePageCrawler\Patent" />
       <recent name="D:\KJH\Project\HomePageCrawler\NotDone" />
@@ -328,16 +324,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549861121945</updated>
-      <workItem from="1549861128695" duration="30024000" />
+      <workItem from="1549861128695" duration="30346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30024000" />
+    <option name="totallyTimeSpent" value="30346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -389,13 +384,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DONE/2010-10-01-TCP-GT--A-New-Approach-to-Congestion-Control-Based-on--Goodput-and-Throughput">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -701,10 +689,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Patent/비휘발성-메모리-기반의-전자-장치의-메타-데이터-복원-방법-및-장치">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2016-Exploiting-Remote-GPGPU">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
