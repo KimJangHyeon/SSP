@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 dump_num = 2
+count = 0
 path = './'
 
 req = requests.get('http://dcslab.hanyang.ac.kr/?q=node/5')
@@ -16,6 +17,8 @@ def titles_parser(cate, tag, tar):
     tar = tar.split('\n')
 
     for line in tar:
+        if not tar:
+            continue
         first_index = line.find(', ')
         fir_author = line[0: first_index]
 
@@ -45,6 +48,9 @@ def titles_parser(cate, tag, tar):
         print('****************************')
 
 def write_file(path, cate, tag, fir, co, title, name, location):
+    global count
+    title = title.replace(':', '-')
+    title = title.replace('/', '-')
     f = open(path + title, 'w')
     data = "layout: publication-single"
     f.write(data)
@@ -64,7 +70,9 @@ def write_file(path, cate, tag, fir, co, title, name, location):
     f.write(data)
     data = '\ntag: \n\t- ' + tag
     f.write(data)
+    count += 1
     f.close()
+
 
 
 def content_parser(strc, cate):
@@ -86,7 +94,7 @@ for i in range(len(my_cate)):
     cate = my_cate[i].text
     content_parser(my_tag[dump_num+i].text, cate)
     print('====================================')
-
+    print(count)
 
 
 

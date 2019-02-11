@@ -2,10 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baf22487-92ac-41d9-a03b-e17ddbd8a3a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/HomePageCrawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HomePageCrawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A Fast and Progressive Algorithm for Skyline Queries with Totally- and Partially-Ordered Domains" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A Framework for Fault Tolerant Peer-to-Peer Streaming Service Based on the Service Migration" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A New Block Fetching Scheme Considering Traffic Smoothing in Multimedia Servers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptive Delay-based Congestion Control for High Bandwidth-Delay Product Networks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aggregated Smoothing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aggregated Smoothing of VBR Video Streams" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/An Efficient Transmission Mechanism for Stored Video" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Athanasia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoBahn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollaboRoid" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design and Implementation of the Lightweight Home Cloud Computing Framework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exploiting Remote GPGPU in Mobile Devices" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feasibility of the Computation Task Offloading to GPGPU-enabled Devices in Mobile Cloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fine-Grained, Adaptive Resource Sharing for Real Pay-Per-Use Pricing in Clouds" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmonic Data Placement" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmonic Interleaving" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inter-Object Layer Clustering for Scalable Video Streaming" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobile Collaborative Computing On The Fly" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobile Platform Support for Remote Music Play" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modeling the Caching Effect in Continuous Media Servers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node Selection for Fault-Tolerant Streaming Service on the Peer-to-Peer Network" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PCS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parity Cloud Service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Performance Evaluation of a Remote Memory System with Commodity Hardware for Large-Memory Data Processing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Placement of Multi-Rate Smoothed VBR Video Objects to MZR Disks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platform Support for Mobile Edge Computing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Providing Fault Tolerance for Peer-to-Peer Streaming Service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smoothed Fetching" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Statistical Admission Control for Soft Real-Time VOD Servers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Storage Technique for Real-Time Streaming of Layered Video" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Storing Continuous Media Objects to Multi-Zone Recording Disks Using Multi-Rate Smoothing Technique" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Storing Multi-Rate Smoothed VBR Objects to MZR Disk Array" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP-GT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transmission of Video Streams with Constant Bandwidth Allocation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/계층적으로 압축된 비디오 데이터의 적응적 스트리밍을 위한 파일시스템 저장 기법 연구" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/사용자의 요청을 예측하여 컨텐츠를 관리하는 멀티미디어 서버 및 그 관리 방법" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/연속미디어 서버에서의 최적 캐슁" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/특성 정보를 이용한 비디오 스트림의 효율적 전송" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +52,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/HomePageCrawler$Crawler.coverage" NAME="Crawler Coverage Results" MODIFIED="1549869522236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HomePageCrawler$Crawler.coverage" NAME="Crawler Coverage Results" MODIFIED="1549870965975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="86" column="49" lean-forward="true" selection-start-line="86" selection-start-column="49" selection-end-line="86" selection-end-column="49" />
+            <state relative-caret-position="188">
+              <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCS">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Performance Evaluation of a Remote Memory System with Commodity Hardware for Large-Memory Data Processing">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Placement of Multi-Rate Smoothed VBR Video Objects to MZR Disks">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Platform Support for Mobile Edge Computing">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -45,6 +103,7 @@
       <find>International Conference</find>
       <find>Domestic Journal</find>
       <find>cata</find>
+      <find>CollaboRoid</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,29 +199,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549861121945</updated>
-      <workItem from="1549861128695" duration="8051000" />
+      <workItem from="1549861128695" duration="9360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8051000" />
+    <option name="totallyTimeSpent" value="9360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.33188722" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.33188722" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.33188722" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.33188722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -173,6 +231,29 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.33188722" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49946696" visible="true" weight="0.33188722" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -192,12 +273,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A Fast and Progressive Algorithm for Skyline Queries with Totally- and Partially-Ordered Domains">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Aggregated Smoothing">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A New Block Fetching Scheme Considering Traffic Smoothing in Multimedia Servers">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/A Framework for Fault Tolerant Peer-to-Peer Streaming Service Based on the Service Migration">
       <provider selected="true" editor-type-id="text-editor">
@@ -206,16 +286,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A New Block Fetching Scheme Considering Traffic Smoothing in Multimedia Servers">
+    <entry file="file://$PROJECT_DIR$/A Fast and Progressive Algorithm for Skyline Queries with Totally- and Partially-Ordered Domains">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aggregated Smoothing of VBR Video Streams">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Transmission of Video Streams with Constant Bandwidth Allocation">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/An Efficient Transmission Mechanism for Stored Video">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statistical Admission Control for Soft Real-Time VOD Servers">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Adaptive Delay-based Congestion Control for High Bandwidth-Delay Product Networks">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Athanasia">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Performance Evaluation of a Remote Memory System with Commodity Hardware for Large-Memory Data Processing">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Placement of Multi-Rate Smoothed VBR Video Objects to MZR Disks">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Platform Support for Mobile Edge Computing">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="86" column="49" lean-forward="true" selection-start-line="86" selection-start-column="49" selection-end-line="86" selection-end-column="49" />
+        <state relative-caret-position="188">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
