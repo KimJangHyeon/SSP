@@ -48,7 +48,7 @@ def write_file(path, cate, tag, fir, co, title, name, location):
     f = open(path + title, 'w')
     data = "layout: publication-single"
     f.write(data)
-    data = "title: " + title
+    data = "\ntitle: " + title
     f.write(data)
     data = '\nname: ' + name
     f.write(data)
