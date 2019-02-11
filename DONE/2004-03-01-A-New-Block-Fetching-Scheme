@@ -4,7 +4,7 @@ title: A New Block Fetching Scheme Considering Traffic Smoothing in Multimedia S
 name: Multimedia Tools and Applications, Vol.22, No.3, pp. 303-328
 first-author: Sooyong Kang
 co-authors: Heon Y. Yeom
-during: Mar. 2004
+during: 2004.03.01
 location: 
 impactfactor: 
 doi: 

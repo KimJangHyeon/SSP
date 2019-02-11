@@ -4,7 +4,7 @@ title: Embedded NAND Flash File System for Mobile Multimedia Device
 name: IEEE Transactions on Consumer Electronics
 first-author: Hyojun Kim
 co-authors: Youjip Won, Sooyong Kang
-during: May. 2009
+during: 2009.05.01
 location: 
 impactfactor: 
 doi: 

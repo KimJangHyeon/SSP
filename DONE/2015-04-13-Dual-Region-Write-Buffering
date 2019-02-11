@@ -4,7 +4,7 @@ title: Dual Region Write Buffering- Making Large-Scale Nonvolatile Buffer using 
 name: ACM Symposium on Applied Computing (SAC) 2015
 first-author: Dongwook Kim
 co-authors: Sooyong Kang
-during: April 13-17
+during: 2015.04.13 - 2015.04.17
 location: Salamanca, Spain
 impactfactor: 
 doi: 

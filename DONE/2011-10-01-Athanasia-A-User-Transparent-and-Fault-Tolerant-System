@@ -4,7 +4,7 @@ title: Athanasia- A User-Transparent and Fault-Tolerant System for Parallel Appl
 name: IEEE Transactions on Parallel and Distributed Systems, Vol. 22, No. 10
 first-author: Hyungsoo Jung
 co-authors: Hyuck Han, Heon Y. Yeom, Sooyong Kang
-during: October 2011
+during: 2011.10.01
 location: 
 impactfactor: 
 doi: 

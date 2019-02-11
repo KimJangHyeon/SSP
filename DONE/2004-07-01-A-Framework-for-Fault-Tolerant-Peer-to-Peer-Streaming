@@ -4,7 +4,7 @@ title: A Framework for Fault Tolerant Peer-to-Peer Streaming Service Based on th
 name: Computer Systems Science and Engineering, Vol. 19, No. 4, pp. 221 - 231
 first-author: Sooyong Kang
 co-authors: Hyunjoo Kim, Heon Y. Yeom
-during: Jul, 2004
+during: 2004.07.01
 location: 
 impactfactor: 
 doi: 

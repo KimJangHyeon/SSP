@@ -1,10 +1,10 @@
 ---
 layout: publication-single
 title: CPS- Operating System Architecture for Efficient Network Resource Management with Control-theoretic Packet Scheduler
-name: Journal of Communications and Networks
+name: Journal of Communications and Networks, Vol.12, No.3
 first-author: Hyungsoo Jung
 co-authors: Hyuck Han, Heon Y. Yeom, Sooyong Kang
-during: Vol.12, No.3, June 2010
+during:  2010.06.01
 location: 
 impactfactor: 
 doi: 

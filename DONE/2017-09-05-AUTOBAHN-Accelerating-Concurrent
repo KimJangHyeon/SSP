@@ -4,7 +4,7 @@ title: AUTOBAHN- Accelerating Concurrent, Durable File I-O via a Non-Volatile Bu
 name: IEEE International Conference on Cluster Computing (CLUSTER 2017)
 first-author: Hyeongwon Jang
 co-authors: Sang Youp Rhee, Jae Eun Kim, Sooyong Kang, Hyuck Han, Hyungsoo Jung
-during: September 5-8, 2017
+during: 2017.09.05 - 2017.09.08
 location: Honolulu, Hawaii
 impactfactor: 
 doi: 

@@ -4,7 +4,7 @@ title: Node Selection for Fault-Tolerant Streaming Service on the Peer-to-Peer N
 name: Proceedings of the 4th IEEE International Conference on Multimedia & Expo.(ICME'2003)
 first-author: Hyunjoo Kim
 co-authors: Sooyong Kang, Heon Y. Yeom
-during: Jul. 6 - 9, 2003
+during: 2003.07.06 - 2003.07.09
 location: Baltimore, MD
 impactfactor: 
 doi: 

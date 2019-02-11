@@ -3,59 +3,76 @@
   <component name="ChangeListManager">
     <list default="true" id="baf22487-92ac-41d9-a03b-e17ddbd8a3a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A Fast and Progressive Algorithm for Skyline Queries with Totally- and Partially-Ordered Domains" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-05-01-A-Fast-and-Progressive-Algorithm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A Flexible System Architecture for E-Learning" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-A-Flexible-System-Architecture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A Framework for Fault Tolerant Peer-to-Peer Streaming Service Based on the Service Migration" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2004-07-01-A-Framework-for-Fault-Tolerant-Peer-to-Peer-Streaming" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A New Block Fetching Scheme Considering Traffic Smoothing in Multimedia Servers" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2004-03-01-A-New-Block-Fetching-Scheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A Semantic Concepts based Retrieval and Analysis of Software Bugs" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-12-28-A-Semantic-Concepts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APPARATUS AND METHOD FOR INDICATING FLASH MEMORY LIFE" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016.12.6 APPARATUS AND METHOD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AUTOBAHN- Accelerating Concurrent, Durable File I-O via a Non-Volatile Buffer" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2017-09-05-AUTOBAHN-Accelerating-Concurrent" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accessing Files in Storage Class Memory-based Computer Systems" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2008-09-22-Accessing-Files-in-Storage-Class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adaptive Delay-based Congestion Control for High Bandwidth-Delay Product Networks" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2011-04-10-Adaptive-Delay-based-Congestion-Control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aggregated Smoothing of VBR Video Streams" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2000-01-01-VBR-Video-Streams" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aggregated Smoothing- Considering All Streams Simultaneously for Transmission of Variable-Bit-Rate Encoded Video Objects" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-09-01-Aggregated-Smoothing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/An Efficient Transmission Mechanism for Stored Video" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/1997-11-01-An-Efficient-Transmission-Mechanism" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/An Object Level Web Caching Mechanism for E-Learning Systems" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-An-Object-Level-Web-Caching-Mechanism" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Athanasia- A User-Transparent and Fault-Tolerant System for Parallel Applications" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2011-10-01-Athanasia-A-User-Transparent-and-Fault-Tolerant-System" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoBahn- A Concurrency Control Framework for Non-Volatile File Buffer" beforeDir="false" afterPath="$PROJECT_DIR$/NotDone/AutoBahn- A Concurrency Control Framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Border-Collie- A Wait-free, Read-optimal Algorithm for Database Logging on Multicore Hardware" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2019-06-30-Border-Collie-A-Wait-free" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Building Concept Network-based User Profile for Personalized Web Search" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-08-18-Building-Concept-Network-based" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPS- Operating System Architecture for Efficient Network Resource Management with Control-theoretic Packet Scheduler" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-06-01-CPS-Operating-System-Architecture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollaboRoid- Mobile Platform Support for Collaborative Applications" beforeDir="false" afterPath="$PROJECT_DIR$/NotDone/CollaboRoid- Mobile Platform Support" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collective Intelligence-based Web Page Search- Combining Folksonomy and Link-based Ranking Strategy" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-10-11-Collective-Intelligence-based-Web-Page-Search" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA PATTERN DETECTING DEVICE, SEMICONDUCTOR DEVICE INCLUDING THE SAME, AND OPERATING METHOD THEREOF" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/DATA PATTERN DETECTING DEVICE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Recovery from Sudden Power-Off in Mobile Devices" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2012-10-02-Data-Recovery-from-Sudden-Power-Off" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deduplication in SSDs- Model and Quantitative Analysis" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2012-04-16-Deduplication-in-SSDs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo- CollaboRoid for Mobile Collaborative Applications" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-06-26-Demo-CollaboRoid-for-Mobile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Trade-Offs of SSDs- from Energy Consumption's Perspective" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-03-01-Design-Trade-Offs-of-SSDs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design and Implementation of Platform Profile Analyzer for Multi-Platform based E-Learning Service" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-Design-and-Implementation-of-Platform-Profile-Analyzer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design and Implementation of the Lightweight Home Cloud Computing Framework" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2013-09-08-Home-Cloud-Computing-Framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dual Region Write Buffering- Making Large-Scale Nonvolatile Buffer using Small Capacitor in SSD" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-04-13-Dual-Region-Write-Buffering" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Embedded NAND Flash File System for Mobile Multimedia Device" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-05-01-Embedded-NAND-Flash-File-System" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exploiting Compression-Induced Internal Fragmentation for Power-off Recovery in SSD" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-06-01-Exploiting-Compression-Induced-Internal-Fragmentation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exploiting Remote GPGPU in Mobile Devices" beforeDir="false" afterPath="$PROJECT_DIR$/NotDone/2016-Exploiting-Remote-GPGPU" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FTL(Flash Translation Layer)을 위한 비휘발성 메모리 기반 쓰기 버퍼의 활용" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-10-01-FTL-비휘발성-메모리-기반-쓰기-버퍼의-활용" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feasibility of the Computation Task Offloading to GPGPU-enabled Devices in Mobile Cloud" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-09-21-Feasibility-of-the-Computation-Task-Offloading" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fine-Grained, Adaptive Resource Sharing for Real Pay-Per-Use Pricing in Clouds" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-09-21-Fine-Grained,-Adaptive-Resource-Sharing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GROUPING METHOD AND DEVICE FOR ENHANCING REDUNDANCY REMOVING PERFORMANCE FOR STORAGE UNIT" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016.11.22 GROUPING METHOD AND DEVICE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Harmonic Data Placement- File System Support for Scalable Streaming" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-01-04-Harmonic-Data-Placement" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Harmonic Interleaving- File System Support for Scalable Streaming of Layer Encoded Object" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-5-22-Harmonic-Interleaving-File-System-Support" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hierarchical Recursive Resource Sharing for Containerized Applications" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-11-12-Hierarchical-Recursive-Resource-Sharing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO Workload Characterization Revisited- A Data-Mining Approach" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2014-12-01-IO-Workload-Characterization-Revisited" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPSiNS-낸드플래시메모리 기반 저장장치를 위한 입출력 성능 시뮬레이션 도구" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2007-10-01-IPSiNS-저장장치를-위한-입출력-성능-시뮬레이션-도구" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identifying the FTL Mapping Schemes of USB Flash Drives" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-10-12-Identifying-the-FTL-Mapping-Schemes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integrated Write Buffer Management for Solid State Drives" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2014-04-01-Integrated-Write-Buffer-Management" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inter-Object Layer Clustering for Scalable Video Streaming" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIRS-WSR- Integration of LIRS and Write Sequence Reordering for Flash Memory" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2007-8-26-LIRS-WSR-Integration-of-LIRS-and-Write-Sequence-Reordering" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LRU-WSR- Integration of LRU and Writes Sequence Reordering for Flash Memory" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2008-08-01-LRU-WSR-Integration-of-LRU-and-Writes-Sequence-Reordering" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/METHOD AND APPARATUS FOR POWER LOSS RECOVERY IN A FLASH MEMORY-BASED SSD" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/METHOD AND APPARATUS FOR STORING DATA IN FLASH MEMORY USING ADDRESS MAPPING WITH VARIOUS BLOCK SIZES" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016-5-29-METHOD-AND-APPARATUS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile Collaborative Computing On The Fly" beforeDir="false" afterPath="$PROJECT_DIR$/Mobile-Collaborative-Computing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mobile Platform Support for Remote Music Play" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-04-04-Mobile-Platform-Support" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modeling the Caching Effect in Continuous Media Servers" beforeDir="false" afterPath="$PROJECT_DIR$/Modeling the Caching Effect in Continuous Media Servers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NVRAM을 매핑 테이블 저장 장치로 사용하는 중복 데이터 제거 시스템 및 방법" beforeDir="false" afterPath="$PROJECT_DIR$/2003-12-01-중복-데이터-제거-시스템-및-방법" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Node Selection for Fault-Tolerant Streaming Service on the Peer-to-Peer Network" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-07-06-Node-Selection" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parity Cloud Service- A Privacy-Protected Personal Data Recovery Service" beforeDir="false" afterPath="$PROJECT_DIR$/2001-11-16-Parity-Cloud-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/1997-11-01-An-Efficient-Transmission-Mechanism" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/1997-11-01-An-Efficient-Transmission-Mechanism" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2000-01-01-VBR-Video-Streams" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2000-01-01-VBR-Video-Streams" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2001-11-16-Parity-Cloud-Service" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2001-11-16-Parity-Cloud-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2003-07-06-Node-Selection" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-07-06-Node-Selection" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2003-09-01-Aggregated-Smoothing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-09-01-Aggregated-Smoothing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2004-03-01-A-New-Block-Fetching-Scheme" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2004-03-01-A-New-Block-Fetching-Scheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2004-07-01-A-Framework-for-Fault-Tolerant-Peer-to-Peer-Streaming" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2004-07-01-A-Framework-for-Fault-Tolerant-Peer-to-Peer-Streaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2005-01-26-A-Flexible-System-Architecture" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-A-Flexible-System-Architecture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2005-01-26-An-Object-Level-Web-Caching-Mechanism" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-An-Object-Level-Web-Caching-Mechanism" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2005-01-26-Design-and-Implementation-of-Platform-Profile-Analyzer" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2005-01-26-Design-and-Implementation-of-Platform-Profile-Analyzer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2006-01-04-Harmonic-Data-Placement" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-01-04-Harmonic-Data-Placement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2006-10-01-FTL-비휘발성-메모리-기반-쓰기-버퍼의-활용" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-10-01-FTL-비휘발성-메모리-기반-쓰기-버퍼의-활용" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2006-5-22-Harmonic-Interleaving-File-System-Support" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2006-05-22-Harmonic-Interleaving-File-System-Support" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2007-10-01-IPSiNS-저장장치를-위한-입출력-성능-시뮬레이션-도구" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2007-10-01-IPSiNS-저장장치를-위한-입출력-성능-시뮬레이션-도구" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2007-8-26-LIRS-WSR-Integration-of-LIRS-and-Write-Sequence-Reordering" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2007-8-26-LIRS-WSR-Integration-of-LIRS-and-Write-Sequence-Reordering" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2008-08-01-LRU-WSR-Integration-of-LRU-and-Writes-Sequence-Reordering" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2008-08-01-LRU-WSR-Integration-of-LRU-and-Writes-Sequence-Reordering" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2008-09-22-Accessing-Files-in-Storage-Class" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2008-09-22-Accessing-Files-in-Storage-Class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2009-05-01-Embedded-NAND-Flash-File-System" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-05-01-Embedded-NAND-Flash-File-System" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2009-10-11-Collective-Intelligence-based-Web-Page-Search" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-10-11-Collective-Intelligence-based-Web-Page-Search" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2009-10-12-Identifying-the-FTL-Mapping-Schemes" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-10-12-Identifying-the-FTL-Mapping-Schemes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2010-05-01-A-Fast-and-Progressive-Algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-05-01-A-Fast-and-Progressive-Algorithm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2010-06-01-CPS-Operating-System-Architecture" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-06-01-CPS-Operating-System-Architecture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2010-08-18-Building-Concept-Network-based" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-08-18-Building-Concept-Network-based" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2010-12-28-A-Semantic-Concepts" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2010-12-28-A-Semantic-Concepts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2011-04-10-Adaptive-Delay-based-Congestion-Control" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2011-04-10-Adaptive-Delay-based-Congestion-Control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2011-10-01-Athanasia-A-User-Transparent-and-Fault-Tolerant-System" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2011-10-01-Athanasia-A-User-Transparent-and-Fault-Tolerant-System" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2012-04-16-Deduplication-in-SSDs" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2012-04-16-Deduplication-in-SSDs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2013-09-08-Home-Cloud-Computing-Framework" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2013-09-08-Home-Cloud-Computing-Framework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2014-04-01-Integrated-Write-Buffer-Management" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2014-04-01-Integrated-Write-Buffer-Management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2014-12-01-IO-Workload-Characterization-Revisited" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2014-12-01-IO-Workload-Characterization-Revisited" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2015-03-01-Design-Trade-Offs-of-SSDs" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-03-01-Design-Trade-Offs-of-SSDs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2015-04-13-Dual-Region-Write-Buffering" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-04-13-Dual-Region-Write-Buffering" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2015-09-21-Feasibility-of-the-Computation-Task-Offloading" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-09-21-Feasibility-of-the-Computation-Task-Offloading" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2015-09-21-Fine-Grained,-Adaptive-Resource-Sharing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2015-09-21-Fine-Grained,-Adaptive-Resource-Sharing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2016-04-04-Mobile-Platform-Support" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-04-04-Mobile-Platform-Support" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2016-06-01-Exploiting-Compression-Induced-Internal-Fragmentation" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-06-01-Exploiting-Compression-Induced-Internal-Fragmentation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2016-06-26-Demo-CollaboRoid-for-Mobile" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2016-06-26-Demo-CollaboRoid-for-Mobile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2017-09-05-AUTOBAHN-Accelerating-Concurrent" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2017-09-05-AUTOBAHN-Accelerating-Concurrent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2018-11-12-Hierarchical-Recursive-Resource-Sharing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-11-12-Hierarchical-Recursive-Resource-Sharing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DONE/2019-06-30-Border-Collie-A-Wait-free" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2019-06-30-Border-Collie-A-Wait-free" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobile-Collaborative-Computing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/Mobile-Collaborative-Computing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modeling the Caching Effect in Continuous Media Servers" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-11-01-Modeling-the-Caching-Effect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotDone/2016-Exploiting-Remote-GPGPU" beforeDir="false" afterPath="$PROJECT_DIR$/NotDone/2016-01-01-Exploiting-Remote-GPGPU" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotDone/AutoBahn- A Concurrency Control Framework" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/AutoBahn- A Concurrency Control Framework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotDone/CollaboRoid- Mobile Platform Support" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/CollaboRoid- Mobile Platform Support" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PCS- A Parity-based Personal Data Recovery Service in Cloud" beforeDir="false" afterPath="$PROJECT_DIR$/NotDone/2017-01-01-PCS-A-Parity-based-Personal-Data-Recovery-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PWF- Reducing Write Response Time in Flash Memory-based Storage Devices" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2012-10-02-PWF-Reducing-Write-Response-Time-in-Flash-Memory-based-Storage-Devices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Partial Page Buffering for Consumer Devices with Flash Storage" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2013-9-8-Partial-Page-Buffering-for-Consumer-evices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patent/2003-12-01-중복-데이터-제거-시스템-및-방법" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/중복-데이터-제거-시스템-및-방법" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patent/2016-5-29-METHOD-AND-APPARATUS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patent/2016.11.22 GROUPING METHOD AND DEVICE" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016-11-22-GROUPING-METHOD-AND-DEVICE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patent/2016.12.6 APPARATUS AND METHOD" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/2016-12-06-APPARATUS-AND-METHOD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patent/DATA PATTERN DETECTING DEVICE" beforeDir="false" afterPath="$PROJECT_DIR$/Patent/DATA-PATTERN-DETECTING-DEVICE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pay Migration Tax to Homeland- Anchor-based Scalable Reference Counting for Multicores" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2019-2-25-Pay-Migration-Tax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Performance Evaluation of a Remote Memory System with Commodity Hardware for Large-Memory Data Processing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2011-12-01-Performance-Evaluation-of-a-Remote-Memory-System" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Performance Evaluation of the SSD-based Swap System for Big Data Processing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2014-09-24-Performance-Evaluation-of-the-SSD-based-Swap-System" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Performance Tradeoffs in Using NVRAM Write Buffer for Flash Memory-based Storage Devices" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-06-01-Performance-Tradeoffs-in-Using-NVRAM-Write-Buffer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Placement of Multi-Rate Smoothed VBR Video Objects to MZR Disks" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2000-07-30-Placement-of-Multi-Rate-Smoothed-VBR-Video-Objects-to-MZR-Disks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platform Support for Mobile Edge Computing" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2017-6-25-Platform-Support" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Providing Fault Tolerance for Peer-to-Peer Streaming Service" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2003-7-23-Providing-Fault-Tolerance-for-Peer-to-Peer-Streaming-Service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report on Workshop on Operating Systems Support for Next Generation Large Scale NVRAM (NVRAMOS 2009)" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-06-01-Report-on-Workshop-on-Operating-Systems-Support" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SAMD Apps- Install Once, Run Anywhere Instantly" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-03-19-SAMD-Apps-Install-Once,-Run-Anywhere-Instantly" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SAMD- Fine-grained Application Sharing for Mobile Collaboration" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-03-19-SAMD-Fine-grained-Application-Sharing-for-Mobile-Collaboration" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SMFS- Semantic Multimedia Filesystem for Mobile Multimedia Devices" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2012-10-02-SMFS-Semantic-Multimedia-Filesystem-for-Mobile-Multimedia-Devices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scalable Database Logging for Multicores" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2018-08-27-Scalable-Database-Logging-for-Multicores" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shadow Block- Imposing Block Device Abstraction on Storage Class Memory" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2009-10-15-Shadow-Block-Imposing-Block-Device-Abstraction-on-Storage-Class-Memory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smoothed Fetching- Bridging the Data Layout and Transmission Schemes in Multimedia Servers" beforeDir="false" afterPath="$PROJECT_DIR$/DONE/2002-03-10-Smoothed-Fetching-Bridging-the-Data-Layout-and-Transmission-Schemes-in-Multimedia-Servers" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,17 +81,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/HomePageCrawler$Crawler.coverage" NAME="Crawler Coverage Results" MODIFIED="1549871929395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HomePageCrawler$Crawler.coverage" NAME="Crawler Coverage Results" MODIFIED="1549881940143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DONE/2007-10-01-IPSiNS-저장장치를-위한-입출력-성능-시뮬레이션-도구">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DONE/2007-8-26-LIRS-WSR-Integration-of-LIRS-and-Write-Sequence-Reordering">
+        <entry file="file://$PROJECT_DIR$/Patent/2016-11-22-GROUPING-METHOD-AND-DEVICE">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
@@ -83,69 +95,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DONE/2008-08-01-LRU-WSR-Integration-of-LRU-and-Writes-Sequence-Reordering">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DONE/2014-12-01-IO-Workload-Characterization-Revisited">
+        <entry file="file://$PROJECT_DIR$/Patent/2016-12-06-APPARATUS-AND-METHOD">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mobile-Collaborative-Computing">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modeling the Caching Effect in Continuous Media Servers">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2001-11-16-Parity-Cloud-Service">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DONE/2003-07-06-Node-Selection">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Patent/DATA PATTERN DETECTING DEVICE">
+        <entry file="file://$PROJECT_DIR$/Patent/다양한-블록-크기를-지원하는-주소-사상을-사용하여-플래시-메모리-내에-데이터를-저장하는-방법-및-장치">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DONE/2016-04-04-Mobile-Platform-Support">
+        <entry file="file://$PROJECT_DIR$/Patent/독출-오류를-방지하는-비휘발성-메모리의-제어-방법-및-장치">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Patent/블록-해제-정보를-사용하여-로그-데이터를-저장하는-시스템-및-방법">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Patent/사용자의-요청을-예측하여-컨텐츠를-관리하는-멀티미디어-서버-및-그-관리-방법">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Patent/비휘발성-메모리의-페이지-관리-방법-및-장치">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Patent/비휘발성-메모리-기반의-전자-장치의-메타-데이터-복원-방법-및-장치">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="266">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Patent/DATA-PATTERN-DETECTING-DEVICE">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -175,62 +176,63 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/플래시 메모리를 사용하는 저장장치 시스템에서 쓰기 버퍼의 안정성을 보장하는 관리 장치 및 방법" />
-        <option value="$PROJECT_DIR$/Crawler.py" />
-        <option value="$PROJECT_DIR$/A Fast and Progressive Algorithm for Skyline Queries with Totally- and Partially-Ordered Domains" />
-        <option value="$PROJECT_DIR$/2005.1.26 A Flexible System Architecture" />
-        <option value="$PROJECT_DIR$/2004.7 A Framework for Fault Tolerant Peer-to-Peer Streaming" />
-        <option value="$PROJECT_DIR$/2004.3 A New Block Fetching Scheme" />
-        <option value="$PROJECT_DIR$/2010.12.28 A Semantic Concepts" />
-        <option value="$PROJECT_DIR$/2008.9.22 Accessing Files in Storage Class" />
-        <option value="$PROJECT_DIR$/2000.1 VBR Video Streams" />
-        <option value="$PROJECT_DIR$/2003.9 Aggregated Smoothing" />
-        <option value="$PROJECT_DIR$/1997.11 An Efficient Transmission Mechanism" />
-        <option value="$PROJECT_DIR$/An Object Level Web Caching Mechanism for E-Learning Systems" />
-        <option value="$PROJECT_DIR$/2011.10 Athanasia- A User-Transparent and Fault-Tolerant System" />
-        <option value="$PROJECT_DIR$/2017.9.5 AUTOBAHN- Accelerating Concurrent" />
-        <option value="$PROJECT_DIR$/2019.6.30 Border-Collie- A Wait-free" />
-        <option value="$PROJECT_DIR$/2010.8.18 Building Concept Network-based" />
-        <option value="$PROJECT_DIR$/2012.10.2 Data Recovery from Sudden Power-Off" />
-        <option value="$PROJECT_DIR$/2012.4.16 Deduplication in SSDs" />
-        <option value="$PROJECT_DIR$/2015.3 Design Trade-Offs of SSDs" />
-        <option value="$PROJECT_DIR$/2013.9.8 Home Cloud Computing Framework" />
-        <option value="$PROJECT_DIR$/2005.1.26 Design and Implementation of Platform Profile Analyzer" />
-        <option value="$PROJECT_DIR$/2015.4.13 Dual Region Write Buffering" />
-        <option value="$PROJECT_DIR$/2016.6.26 Demo- CollaboRoid for Mobile" />
-        <option value="$PROJECT_DIR$/2009.5 Embedded NAND Flash File System" />
-        <option value="$PROJECT_DIR$/2016.6 Exploiting Compression-Induced Internal Fragmentation" />
-        <option value="$PROJECT_DIR$/Exploiting Remote GPGPU in Mobile Devices" />
-        <option value="$PROJECT_DIR$/2015.9.21 Feasibility of the Computation Task Offloading" />
-        <option value="$PROJECT_DIR$/Fine-Grained, Adaptive Resource Sharing for Real Pay-Per-Use Pricing in Clouds" />
-        <option value="$PROJECT_DIR$/2006.1.4 Harmonic Data Placement" />
-        <option value="$PROJECT_DIR$/DONE/2003.9 Aggregated Smoothing" />
-        <option value="$PROJECT_DIR$/DONE/2004.3 A New Block Fetching Scheme" />
-        <option value="$PROJECT_DIR$/DONE/2004.7 A Framework for Fault Tolerant Peer-to-Peer Streaming" />
-        <option value="$PROJECT_DIR$/DONE/2005.1.26 An Object Level Web Caching Mechanism" />
-        <option value="$PROJECT_DIR$/DONE/2010.5 A Fast and Progressive Algorithm" />
-        <option value="$PROJECT_DIR$/DONE/2010.8.18 Building Concept Network-based" />
-        <option value="$PROJECT_DIR$/DONE/2011.10 Athanasia- A User-Transparent and Fault-Tolerant System" />
-        <option value="$PROJECT_DIR$/DONE/2012.10.2 Data Recovery from Sudden Power-Off" />
-        <option value="$PROJECT_DIR$/DONE/2015.3 Design Trade-Offs of SSDs" />
-        <option value="$PROJECT_DIR$/2006.5.22 Harmonic Interleaving- File System Support" />
-        <option value="$PROJECT_DIR$/Hierarchical Recursive Resource Sharing for Containerized Applications" />
-        <option value="$PROJECT_DIR$/Identifying the FTL Mapping Schemes of USB Flash Drives" />
-        <option value="$PROJECT_DIR$/Integrated Write Buffer Management for Solid State Drives" />
-        <option value="$PROJECT_DIR$/Inter-Object Layer Clustering for Scalable Video Streaming" />
-        <option value="$PROJECT_DIR$/IO Workload Characterization Revisited- A Data-Mining Approach" />
-        <option value="$PROJECT_DIR$/LIRS-WSR- Integration of LIRS and Write Sequence Reordering for Flash Memory" />
-        <option value="$PROJECT_DIR$/2008-08-01-LRU-WSR-Integration-of-LRU-and-Writes-Sequence-Reordering" />
-        <option value="$PROJECT_DIR$/2016-04-04-Mobile-Platform-Support" />
-        <option value="$PROJECT_DIR$/Modeling the Caching Effect in Continuous Media Servers" />
-        <option value="$PROJECT_DIR$/Node Selection for Fault-Tolerant Streaming Service on the Peer-to-Peer Network" />
-        <option value="$PROJECT_DIR$/2001-11-16-Parity-Cloud-Service" />
+        <option value="$PROJECT_DIR$/DONE/2009-12-01-페이지-삭제정보를-활용하는-플래시-저장장치의-구조" />
+        <option value="$PROJECT_DIR$/DONE/2010-01-27-Utilizing-Personalized-Tag-Recommendation-Model-in-Web-Page-Search" />
+        <option value="$PROJECT_DIR$/DONE/2010-03-01-폭소노미-기반-개인화-웹-검색-시스템" />
+        <option value="$PROJECT_DIR$/DONE/2010-05-01-A-Fast-and-Progressive-Algorithm" />
+        <option value="$PROJECT_DIR$/DONE/2010-06-01-CPS-Operating-System-Architecture" />
+        <option value="$PROJECT_DIR$/DONE/2010-06-01-SSD를-위한-쓰기버퍼와-로그블록-통합-관리의-필요성" />
+        <option value="$PROJECT_DIR$/DONE/2010-06-01-개념-네트워크-기반-개인화-검색-시스템의-설계-및-구현" />
+        <option value="$PROJECT_DIR$/DONE/2010-06-01-사용자-프로파일을-통한-개인화-문장-추출-시스템-설계" />
+        <option value="$PROJECT_DIR$/DONE/2010-08-18-Building-Concept-Network-based" />
+        <option value="$PROJECT_DIR$/DONE/2010-09-01-개인화-웹-검색-시스템-기반의-문서-요약-시스템" />
+        <option value="$PROJECT_DIR$/DONE/2010-10-01-TCP-GT--A-New-Approach-to-Congestion-Control-Based-on--Goodput-and-Throughput" />
+        <option value="$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering" />
+        <option value="$PROJECT_DIR$/DONE/2010-12-28-A-Semantic-Concepts" />
+        <option value="$PROJECT_DIR$/DONE/2011-04-10-Adaptive-Delay-based-Congestion-Control" />
+        <option value="$PROJECT_DIR$/DONE/2011-06-01-SSD를-위한-비대칭-버퍼-관리-기법" />
+        <option value="$PROJECT_DIR$/DONE/2011-06-01-SSD에서의-시맨틱-파일-검색을-위한-확장된-속성-제공의-로그-기반-파일시스템" />
+        <option value="$PROJECT_DIR$/DONE/2011-06-01-멀티미디어-스트리밍-서버를-위한-SSD와-HDD-혼합-스토리지-구조" />
+        <option value="$PROJECT_DIR$/DONE/2011-06-14-SSD-Characterization--From-Energy-Consumption’s-Perspective" />
+        <option value="$PROJECT_DIR$/DONE/2011-06-14-SSD를-위한-로그-기반-파일시스템의-개선" />
+        <option value="$PROJECT_DIR$/DONE/2011-04-01-SSD를-위한-로그-기반-파일시스템의-개선" />
+        <option value="$PROJECT_DIR$/DONE/2011-10-01-Athanasia-A-User-Transparent-and-Fault-Tolerant-System" />
+        <option value="$PROJECT_DIR$/DONE/2011-12-01-Performance-Evaluation-of-a-Remote-Memory-System" />
+        <option value="$PROJECT_DIR$/DONE/2012-04-16-Deduplication-in-SSDs" />
+        <option value="$PROJECT_DIR$/DONE/2012-10-2-PWF-Reducing-Write-Response-Time-in-Flash-Memory-based-Storage-Devices" />
+        <option value="$PROJECT_DIR$/DONE/2012-10-02-SMFS-Semantic-Multimedia-Filesystem-for-Mobile-Multimedia-Devices" />
+        <option value="$PROJECT_DIR$/DONE/2013-05-06-VSSIM--Virtual-Machine-based-SSD-Simulator" />
+        <option value="$PROJECT_DIR$/DONE/2013-9-8-Partial-Page-Buffering-for-Consumer-evices" />
+        <option value="$PROJECT_DIR$/DONE/2013-09-08-Home-Cloud-Computing-Framework" />
+        <option value="$PROJECT_DIR$/DONE/2014-04-01-Integrated-Write-Buffer-Management" />
+        <option value="$PROJECT_DIR$/DONE/2014-09-24-Performance-Evaluation-of-the-SSD-based-Swap-System" />
+        <option value="$PROJECT_DIR$/DONE/2014-12-01-IO-Workload-Characterization-Revisited" />
+        <option value="$PROJECT_DIR$/DONE/2015-03-01-Design-Trade-Offs-of-SSDs" />
+        <option value="$PROJECT_DIR$/DONE/2015-04-13-Dual-Region-Write-Buffering" />
+        <option value="$PROJECT_DIR$/DONE/2015-09-21-Feasibility-of-the-Computation-Task-Offloading" />
+        <option value="$PROJECT_DIR$/DONE/2015-09-21-Fine-Grained,-Adaptive-Resource-Sharing" />
+        <option value="$PROJECT_DIR$/DONE/2016-04-04-Mobile-Platform-Support" />
+        <option value="$PROJECT_DIR$/DONE/2016-04-04-zf-FTL--A-Zero-Free-Flash-Translation-Layer" />
+        <option value="$PROJECT_DIR$/DONE/2016-06-01-Exploiting-Compression-Induced-Internal-Fragmentation" />
+        <option value="$PROJECT_DIR$/DONE/2016-06-26-Demo-CollaboRoid-for-Mobile" />
+        <option value="$PROJECT_DIR$/DONE/2017-6-25-Platform-Support" />
+        <option value="$PROJECT_DIR$/DONE/2017-09-05-AUTOBAHN-Accelerating-Concurrent" />
+        <option value="$PROJECT_DIR$/DONE/2018-03-19-SAMD-Apps-Install-Once,-Run-Anywhere-Instantly" />
+        <option value="$PROJECT_DIR$/DONE/2018-03-19-SAMD-Fine-grained-Application-Sharing-for-Mobile-Collaboration" />
+        <option value="$PROJECT_DIR$/DONE/2018-08-27-Scalable-Database-Logging-for-Multicores" />
+        <option value="$PROJECT_DIR$/DONE/2018-11-12-Hierarchical-Recursive-Resource-Sharing" />
+        <option value="$PROJECT_DIR$/DONE/2019-2-25-Pay-Migration-Tax" />
+        <option value="$PROJECT_DIR$/DONE/2019-06-30-Border-Collie-A-Wait-free" />
+        <option value="$PROJECT_DIR$/Patent/2016.11.22 GROUPING METHOD AND DEVICE" />
+        <option value="$PROJECT_DIR$/Patent/2016.12.6 APPARATUS AND METHOD" />
+        <option value="$PROJECT_DIR$/Patent/2016-5-29-METHOD-AND-APPARATUS" />
+        <option value="$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
-    <option name="y" value="27" />
+    <option name="x" value="375" />
+    <option name="y" value="31" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -247,6 +249,11 @@
               <item name="HomePageCrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomePageCrawler" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HomePageCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomePageCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="Patent" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,6 +268,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\KJH\Project\HomePageCrawler\TEMP" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\KJH\Project\HomePageCrawler\DONE" />
       <recent name="D:\KJH\Project\HomePageCrawler\Patent" />
@@ -318,12 +328,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549861121945</updated>
-      <workItem from="1549861128695" duration="16775000" />
+      <workItem from="1549861128695" duration="30024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16775000" />
+    <option name="totallyTimeSpent" value="30024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -379,320 +389,320 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DONE/2004-03-01-A-New-Block-Fetching-Scheme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2008-09-22-Accessing-Files-in-Storage-Class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="171" lean-forward="true" selection-start-line="3" selection-start-column="171" selection-end-line="3" selection-end-column="171" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2010-05-01-A-Fast-and-Progressive-Algorithm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="80" selection-start-line="3" selection-start-column="80" selection-end-line="3" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2011-04-10-Adaptive-Delay-based-Congestion-Control">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2010-12-28-A-Semantic-Concepts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2012-04-16-Deduplication-in-SSDs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2012-10-02-Data-Recovery-from-Sudden-Power-Off">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2013-09-08-Home-Cloud-Computing-Framework">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2015-03-01-Design-Trade-Offs-of-SSDs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2015-04-13-Dual-Region-Write-Buffering">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2016-06-26-Demo-CollaboRoid-for-Mobile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patent/2016.12.6 APPARATUS AND METHOD">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2017-09-05-AUTOBAHN-Accelerating-Concurrent">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2019-06-30-Border-Collie-A-Wait-free">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2006-10-01-FTL-비휘발성-메모리-기반-쓰기-버퍼의-활용">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2015-09-21-Feasibility-of-the-Computation-Task-Offloading">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2015-09-21-Fine-Grained,-Adaptive-Resource-Sharing">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NotDone/2016-Exploiting-Remote-GPGPU">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2006-5-22-Harmonic-Interleaving-File-System-Support">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2006-01-04-Harmonic-Data-Placement">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2005-01-26-An-Object-Level-Web-Caching-Mechanism">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2005-01-26-A-Flexible-System-Architecture">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2004-07-01-A-Framework-for-Fault-Tolerant-Peer-to-Peer-Streaming">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="77" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2003-09-01-Aggregated-Smoothing">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="69" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/1997-11-01-An-Efficient-Transmission-Mechanism">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2009-10-11-Collective-Intelligence-based-Web-Page-Search">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2010-08-18-Building-Concept-Network-based">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="105" selection-start-line="3" selection-start-column="105" selection-end-line="3" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2011-10-01-Athanasia-A-User-Transparent-and-Fault-Tolerant-System">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2009-05-01-Embedded-NAND-Flash-File-System">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2000-01-01-VBR-Video-Streams">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2005-01-26-Design-and-Implementation-of-Platform-Profile-Analyzer">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NotDone/AutoBahn- A Concurrency Control Framework">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NotDone/CollaboRoid- Mobile Platform Support">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2016-06-01-Exploiting-Compression-Induced-Internal-Fragmentation">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2018-11-12-Hierarchical-Recursive-Resource-Sharing">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2009-10-12-Identifying-the-FTL-Mapping-Schemes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2014-04-01-Integrated-Write-Buffer-Management">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2003-12-01-중복-데이터-제거-시스템-및-방법">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patent/2016-5-29-METHOD-AND-APPARATUS">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2003-07-06-Node-Selection">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patent/DATA PATTERN DETECTING DEVICE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2007-8-26-LIRS-WSR-Integration-of-LIRS-and-Write-Sequence-Reordering">
+    <entry file="file://$PROJECT_DIR$/DONE/2010-10-01-TCP-GT--A-New-Approach-to-Congestion-Control-Based-on--Goodput-and-Throughput">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2007-10-01-IPSiNS-저장장치를-위한-입출력-성능-시뮬레이션-도구">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DONE/2008-08-01-LRU-WSR-Integration-of-LRU-and-Writes-Sequence-Reordering">
+    <entry file="file://$PROJECT_DIR$/DONE/2010-11-01-Inter-Object-Layer-Clustering">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2010-12-28-A-Semantic-Concepts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2011-06-01-SSD에서의-시맨틱-파일-검색을-위한-확장된-속성-제공의-로그-기반-파일시스템">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2011-06-01-멀티미디어-스트리밍-서버를-위한-SSD와-HDD-혼합-스토리지-구조">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2011-04-01-SSD를-위한-로그-기반-파일시스템의-개선">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2011-04-10-Adaptive-Delay-based-Congestion-Control">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2011-06-01-SSD를-위한-비대칭-버퍼-관리-기법">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2011-06-14-SSD-Characterization--From-Energy-Consumption’s-Perspective">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2011-10-01-Athanasia-A-User-Transparent-and-Fault-Tolerant-System">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2011-12-01-Performance-Evaluation-of-a-Remote-Memory-System">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2012-04-16-Deduplication-in-SSDs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2012-10-02-PWF-Reducing-Write-Response-Time-in-Flash-Memory-based-Storage-Devices">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2012-10-02-SMFS-Semantic-Multimedia-Filesystem-for-Mobile-Multimedia-Devices">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2013-05-06-VSSIM--Virtual-Machine-based-SSD-Simulator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2013-9-8-Partial-Page-Buffering-for-Consumer-evices">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2013-09-08-Home-Cloud-Computing-Framework">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2014-04-01-Integrated-Write-Buffer-Management">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2014-09-24-Performance-Evaluation-of-the-SSD-based-Swap-System">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DONE/2014-12-01-IO-Workload-Characterization-Revisited">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2015-03-01-Design-Trade-Offs-of-SSDs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2015-04-13-Dual-Region-Write-Buffering">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2015-09-21-Feasibility-of-the-Computation-Task-Offloading">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2015-09-21-Fine-Grained,-Adaptive-Resource-Sharing">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DONE/2016-04-04-Mobile-Platform-Support">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mobile-Collaborative-Computing">
+    <entry file="file://$PROJECT_DIR$/DONE/2016-04-04-zf-FTL--A-Zero-Free-Flash-Translation-Layer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2016-06-01-Exploiting-Compression-Induced-Internal-Fragmentation">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2016-06-26-Demo-CollaboRoid-for-Mobile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2017-6-25-Platform-Support">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2017-09-05-AUTOBAHN-Accelerating-Concurrent">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2018-03-19-SAMD-Apps-Install-Once,-Run-Anywhere-Instantly">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2018-03-19-SAMD-Fine-grained-Application-Sharing-for-Mobile-Collaboration">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2018-08-27-Scalable-Database-Logging-for-Multicores">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2018-11-12-Hierarchical-Recursive-Resource-Sharing">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2019-2-25-Pay-Migration-Tax">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/2019-06-30-Border-Collie-A-Wait-free">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/AutoBahn- A Concurrency Control Framework">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/CollaboRoid- Mobile Platform Support">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DONE/Mobile-Collaborative-Computing">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/중복-데이터-제거-시스템-및-방법">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/2016-11-22-GROUPING-METHOD-AND-DEVICE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/2016-03-29-METHOD-AND-APPARATUS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/DATA-PATTERN-DETECTING-DEVICE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/2016-12-06-APPARATUS-AND-METHOD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/다양한-블록-크기를-지원하는-주소-사상을-사용하여-플래시-메모리-내에-데이터를-저장하는-방법-및-장치">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/독출-오류를-방지하는-비휘발성-메모리의-제어-방법-및-장치">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/블록-해제-정보를-사용하여-로그-데이터를-저장하는-시스템-및-방법">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/사용자의-요청을-예측하여-컨텐츠를-관리하는-멀티미디어-서버-및-그-관리-방법">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/비휘발성-메모리의-페이지-관리-방법-및-장치">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patent/비휘발성-메모리-기반의-전자-장치의-메타-데이터-복원-방법-및-장치">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modeling the Caching Effect in Continuous Media Servers">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2001-11-16-Parity-Cloud-Service">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>

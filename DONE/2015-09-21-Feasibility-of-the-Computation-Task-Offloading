@@ -4,7 +4,7 @@ title: Feasibility of the Computation Task Offloading to GPGPU-enabled Devices i
 name: International Workshop on Autonomic Management of high performance Grid and Cloud Computing (AMGCC)
 first-author: Kihan Choi
 co-authors: Jaehun Lee, Youngjin Kim, Sooyong Kang, Hyuck Kan
-during: Sep. 21, 2015
+during: 2015.09.21
 location: Cambridge, MA
 impactfactor: 
 doi: 

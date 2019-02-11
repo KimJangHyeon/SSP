@@ -4,7 +4,7 @@ title: Aggregated Smoothing- Considering All Streams Simultaneously for Transmis
 name: Journal of Communications and Networks, Vol.5, No.3, pp.258-265
 first-author: Sooyong Kang
 co-authors: Heon Y. Yeom
-during: Sep. 2003
+during: 2003.09.01
 location: 
 impactfactor: 
 doi: 

@@ -4,7 +4,7 @@ title: Design Trade-Offs of SSDs- from Energy Consumption's Perspective
 name: ACM Transactions on Storage, Vol. 11, Issue 2
 first-author: Seokhei Cho
 co-authors: Changhyun Park, Youjip Won, Sooyong Kang, Jaehyuk Cha, Sungroh Yoon, Jongmoo Choi
-during: March 2015
+during: 2015.03.01
 location: 
 impactfactor: 
 doi: 

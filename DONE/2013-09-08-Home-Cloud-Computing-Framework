@@ -4,7 +4,7 @@ title: Design and Implementation of the Lightweight Home Cloud Computing Framewo
 name: IEEE International Conference on Consumer Electronics (ICCE-Berlin)
 first-author: Jaehun Lee
 co-authors: Kihan Choi, Youngjin Kim, Sooyong Kang
-during: Sep. 8 - 11, 2013
+during: 2013.09.08 - 2013.09.11
 location: Berlin, Germany
 impactfactor: 
 doi: 

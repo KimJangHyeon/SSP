@@ -4,7 +4,7 @@ title: Border-Collie- A Wait-free, Read-optimal Algorithm for Database Logging o
 name: ACM International Conference on Management of Data (SIGMOD 2019)
 first-author: Jongbin Kim
 co-authors: Hyeongwon Jang, Seohui Son, Hyuck Han, Sooyong Kang, Hyungsoo Jung
-during: June 30 - July 5, 2019
+during: 2019.06.30 - 2019.07.05
 location: Amsterdam, Netherlands
 impactfactor: 
 doi: 

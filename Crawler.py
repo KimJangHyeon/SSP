@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 dump_num = 2
 count = 0
-path = './'
+path = './TEMP/'
 
 req = requests.get('http://dcslab.hanyang.ac.kr/?q=node/5')
 html = req.text
@@ -50,9 +50,11 @@ def titles_parser(cate, tag, tar):
 
 def write_file(path, cate, tag, fir, co, title, name, location):
     global count
-    title = title.replace(':', '-')
-    title = title.replace('/', '-')
-    f = open(path + title, 'w', encoding="utf-8")
+    title = title.replace('/', )
+    ptitle = title.replace(':', '-')
+    ptitle = ptitle.replace('/', '-')
+    ptitle = ptitle.replace(' ', '-')
+    f = open(path + ptitle, 'w', encoding="utf-8")
     data = "---"
     f.write(data)
     data = "\nlayout: publication-single"

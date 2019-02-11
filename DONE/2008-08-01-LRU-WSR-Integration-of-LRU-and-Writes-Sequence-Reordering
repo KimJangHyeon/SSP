@@ -4,7 +4,7 @@ title: LRU-WSR- Integration of LRU and Writes Sequence Reordering for Flash Memo
 name: IEEE Transactions on Consumer Electronics, Vol. 54, Issue 3
 first-author: Hoyoung Jung
 co-authors: Hyoki Shim, Sungmin Park, Sooyong Kang, Jaehyuk Cha
-during: Aug. 2008
+during: 2008.08.01
 location: 
 impactfactor: 
 doi: 

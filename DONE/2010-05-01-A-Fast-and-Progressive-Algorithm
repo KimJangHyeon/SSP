@@ -4,7 +4,7 @@ title: A Fast and Progressive Algorithm for Skyline Queries with Totally- and Pa
 name: Journal of Systems and Software, Vol.83, Issue 3, pp.429-445, Vol.12, No.3
 first-author: Hyungsoo Jung
 co-authors: Hyuck Han, Heon Y. Yeom, Sooyong Kang
-during: March 2010
+during: 2010.03.01
 location: 
 impactfactor: 
 doi: 

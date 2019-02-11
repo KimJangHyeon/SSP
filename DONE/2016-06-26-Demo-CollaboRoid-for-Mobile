@@ -4,7 +4,7 @@ title: Demo- CollaboRoid for Mobile Collaborative Applications
 name: The 14th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)
 first-author: Jaehun Lee
 co-authors: Hochul Lee, Sooyong Kang, Young Choon Lee, Hyuck Han
-during: June 26-30, 2016
+during: 2016.06.26 - 2016.06.30
 location: Singapore (Demo paper)
 impactfactor: 
 doi: 
