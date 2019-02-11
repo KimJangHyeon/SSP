@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Design Trade-Offs of SSDs- from Energy Consumption's Perspective
 name: ACM Transactions on Storage
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- International Journal
+---

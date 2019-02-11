@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: PWF- Reducing Write Response Time in Flash Memory-based Storage Devices
 name: IEEE Global Conference on Consumer Electronics (GCCE) 2012
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- International Conference
+---

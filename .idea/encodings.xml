@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/개념 네트워크 기반 개인화 검색 시스템의 설계 및 구현" charset="ISO-8859-1" />
+  </component>
 </project>

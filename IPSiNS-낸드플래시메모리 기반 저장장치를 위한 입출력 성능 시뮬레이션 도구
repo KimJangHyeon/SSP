@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: IPSiNS-³½µåÇÃ·¡½Ã¸Ş¸ğ¸® ±â¹İ ÀúÀåÀåÄ¡¸¦ À§ÇÑ ÀÔÃâ·Â ¼º´É ½Ã¹Ä·¹ÀÌ¼Ç µµ±¸
-name: ÇÑ±¹Á¤º¸°úÇĞÈ¸ ³í¹®Áö
-first-author: À±°æÈÆ
-co-authors: Á¤È£¿µ, ¹Ú¼º¹Î, ½ÉÈ¿±â, Â÷ÀçÇõ, °­¼ö¿ë
-during: 2007³â 10¿ù
+title: IPSiNS-ë‚¸ë“œí”Œë˜ì‹œë©”ëª¨ë¦¬ ê¸°ë°˜ ì €ì¥ì¥ì¹˜ë¥¼ ìœ„í•œ ì…ì¶œë ¥ ì„±ëŠ¥ ì‹œë®¬ë ˆì´ì…˜ ë„êµ¬
+name: í•œêµ­ì •ë³´ê³¼í•™íšŒ ë…¼ë¬¸ì§€
+first-author: ìœ¤ê²½í›ˆ
+co-authors: ì •í˜¸ì˜, ë°•ì„±ë¯¼, ì‹¬íš¨ê¸°, ì°¨ì¬í˜, ê°•ìˆ˜ìš©
+during: 2007ë…„ 10ì›”
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Domestic Journal
+---

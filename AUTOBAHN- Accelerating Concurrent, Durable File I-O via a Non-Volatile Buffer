@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: AUTOBAHN- Accelerating Concurrent, Durable File I-O via a Non-Volatile Buffer
 name: IEEE International Conference on Cluster Computing (CLUSTER 2017)
@@ -12,3 +13,4 @@ categories:
 	- Distributed/High-Performance/Mobile Computing Systems
 tag: 
 	- International Conference
+---

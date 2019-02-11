@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: CPS- Operating System Architecture for Efficient Network Resource Management with Control-theoretic Packet Scheduler
 name: Journal of Communications and Networks
@@ -12,3 +13,4 @@ categories:
 	- Distributed/High-Performance/Mobile Computing Systems
 tag: 
 	- International Journal
+---

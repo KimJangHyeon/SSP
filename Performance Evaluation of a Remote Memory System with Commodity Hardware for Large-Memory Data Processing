@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Performance Evaluation of a Remote Memory System with Commodity Hardware for Large-Memory Data Processing
 name: Cluster Computing
@@ -12,3 +13,4 @@ categories:
 	- Distributed/High-Performance/Mobile Computing Systems
 tag: 
 	- International Journal
+---

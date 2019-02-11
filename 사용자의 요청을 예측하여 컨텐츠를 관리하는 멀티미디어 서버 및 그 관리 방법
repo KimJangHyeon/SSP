@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: »ç¿ëÀÚÀÇ ¿äÃ»À» ¿¹ÃøÇÏ¿© ÄÁÅÙÃ÷¸¦ °ü¸®ÇÏ´Â ¸ÖÆ¼¹Ìµğ¾î ¼­¹ö ¹× ±× °ü¸® ¹æ¹ı
-name: ´ëÇÑ¹Î±¹
-first-author: ±èµ¿¿í
-co-authors: °­¼ö¿ë
-during: µî·Ï¹øÈ£ 10-1351648
+title: ì‚¬ìš©ìì˜ ìš”ì²­ì„ ì˜ˆì¸¡í•˜ì—¬ ì»¨í…ì¸ ë¥¼ ê´€ë¦¬í•˜ëŠ” ë©€í‹°ë¯¸ë””ì–´ ì„œë²„ ë° ê·¸ ê´€ë¦¬ ë°©ë²•
+name: ëŒ€í•œë¯¼êµ­
+first-author: ê¹€ë™ìš±
+co-authors: ê°•ìˆ˜ìš©
+during: ë“±ë¡ë²ˆí˜¸ 10-1351648
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Multimedia Systems
 tag: 
 	- Patents
+---

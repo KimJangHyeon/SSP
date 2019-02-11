@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Using Non-Volatile RAM as a Write Buffer for NAND Flash Memory-based Storage Devices
 name: IEEE/ACM MASCOTS 2008
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- International Conference
+---

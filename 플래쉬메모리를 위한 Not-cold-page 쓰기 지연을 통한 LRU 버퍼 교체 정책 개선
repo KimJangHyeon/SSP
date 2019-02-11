@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: ÇÃ·¡½¬¸Ş¸ğ¸®¸¦ À§ÇÑ Not-cold-page ¾²±â Áö¿¬À» ÅëÇÑ LRU ¹öÆÛ ±³Ã¼ Á¤Ã¥ °³¼±
-name: ÇÑ±¹Á¤º¸°úÇĞÈ¸ ³í¹®Áö
-first-author: Á¤È£¿µ
-co-authors: ¹Ú¼º¹Î, Â÷ÀçÇõ, °­¼ö¿ë
-during: 2006³â 9¿ù
+title: í”Œë˜ì‰¬ë©”ëª¨ë¦¬ë¥¼ ìœ„í•œ Not-cold-page ì“°ê¸° ì§€ì—°ì„ í†µí•œ LRU ë²„í¼ êµì²´ ì •ì±… ê°œì„ 
+name: í•œêµ­ì •ë³´ê³¼í•™íšŒ ë…¼ë¬¸ì§€
+first-author: ì •í˜¸ì˜
+co-authors: ë°•ì„±ë¯¼, ì°¨ì¬í˜, ê°•ìˆ˜ìš©
+during: 2006ë…„ 9ì›”
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Domestic Journal
+---

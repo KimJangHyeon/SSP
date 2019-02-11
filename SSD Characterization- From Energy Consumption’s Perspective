@@ -1,5 +1,6 @@
+---
 layout: publication-single
-title: SSD Characterization- From Energy Consumption¡¯s Perspective
+title: SSD Characterization- From Energy Consumptionâ€™s Perspective
 name: USENIX HotStorage 2011
 first-author: Balgeun Yoo
 co-authors: Youjip Won, Sooyong Kang, Jongmoo Choi, Sungroh Yoon
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- International Conference
+---

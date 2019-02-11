@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: µå¶óÀÌºê ÄÁÆ®·Ñ·¯¸¦ Æ÷ÇÔÇÏ´Â ÀúÀå ÀåÄ¡, »ó±â µå¶óÀÌºê ÄÁÆ®·Ñ·¯°¡ ¼öÇàÇÏ´Â °¡ºñÁö ÄÃ·º¼Ç ¼öÇà ¹æ¹ý
-name: ´ëÇÑ¹Î±¹ µî·Ï¹øÈ£ 10-003189
-first-author: ÀÌÅÂÈ­
-co-authors: Â÷ÀçÇõ, À±¼º·Î, ÃÖÁ¾¹«, ¿øÀ¯Áý, °­¼ö¿ë
-during: ÇÑ¹Î±¹ µî·Ï¹øÈ£ 10-0031893
+title: ë“œë¼ì´ë¸Œ ì»¨íŠ¸ë¡¤ëŸ¬ë¥¼ í¬í•¨í•˜ëŠ” ì €ìž¥ ìž¥ì¹˜, ìƒê¸° ë“œë¼ì´ë¸Œ ì»¨íŠ¸ë¡¤ëŸ¬ê°€ ìˆ˜í–‰í•˜ëŠ” ê°€ë¹„ì§€ ì»¬ë ‰ì…˜ ìˆ˜í–‰ ë°©ë²•
+name: ëŒ€í•œë¯¼êµ­ ë“±ë¡ë²ˆí˜¸ 10-003189
+first-author: ì´íƒœí™”
+co-authors: ì°¨ìž¬í˜, ìœ¤ì„±ë¡œ, ìµœì¢…ë¬´, ì›ìœ ì§‘, ê°•ìˆ˜ìš©
+during: í•œë¯¼êµ­ ë“±ë¡ë²ˆí˜¸ 10-0031893
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Patents
+---

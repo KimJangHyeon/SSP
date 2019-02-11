@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: ºí·Ï ÇØÁ¦ Á¤º¸¸¦ »ç¿ëÇÏ¿© ·Î±× µ¥ÀÌÅÍ¸¦ ÀúÀåÇÏ´Â ½Ã½ºÅÛ ¹× ¹æ¹ı
-name: ´ëÇÑ¹Î±¹
-first-author: Â÷ÀçÇõ
-co-authors: ¹è»óÈñ, Á¤È£¿µ, °­¼ö¿ë, ¿øÀ¯Áı, À±¼º·Î, ÃÖÁ¾¹«
-during: µî·Ï¹øÈ£ 10-1377291
+title: ë¸”ë¡ í•´ì œ ì •ë³´ë¥¼ ì‚¬ìš©í•˜ì—¬ ë¡œê·¸ ë°ì´í„°ë¥¼ ì €ì¥í•˜ëŠ” ì‹œìŠ¤í…œ ë° ë°©ë²•
+name: ëŒ€í•œë¯¼êµ­
+first-author: ì°¨ì¬í˜
+co-authors: ë°°ìƒí¬, ì •í˜¸ì˜, ê°•ìˆ˜ìš©, ì›ìœ ì§‘, ìœ¤ì„±ë¡œ, ìµœì¢…ë¬´
+during: ë“±ë¡ë²ˆí˜¸ 10-1377291
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Patents
+---

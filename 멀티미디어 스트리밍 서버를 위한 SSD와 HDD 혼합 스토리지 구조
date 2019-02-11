@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: ¸ÖÆ¼¹Ìµğ¾î ½ºÆ®¸®¹Ö ¼­¹ö¸¦ À§ÇÑ SSD¿Í HDD È¥ÇÕ ½ºÅä¸®Áö ±¸Á¶
-name: ÇÑ±¹ÄÄÇ»ÅÍÁ¾ÇÕÇĞ¼ú´ëÈ¸ ³í¹®Áö
-first-author: ±è¼±¿ì
-co-authors: ¹®Áö¼º, ±â¾ÈÈ£, °­¼ö¿ë
-during: 2011³â 6¿ù
+title: ë©€í‹°ë¯¸ë””ì–´ ìŠ¤íŠ¸ë¦¬ë° ì„œë²„ë¥¼ ìœ„í•œ SSDì™€ HDD í˜¼í•© ìŠ¤í† ë¦¬ì§€ êµ¬ì¡°
+name: í•œêµ­ì»´í“¨í„°ì¢…í•©í•™ìˆ ëŒ€íšŒ ë…¼ë¬¸ì§€
+first-author: ê¹€ì„ ìš°
+co-authors: ë¬¸ì§€ì„±, ê¸°ì•ˆí˜¸, ê°•ìˆ˜ìš©
+during: 2011ë…„ 6ì›”
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Domestic Conference
+---

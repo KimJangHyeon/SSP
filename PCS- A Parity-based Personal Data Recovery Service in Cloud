@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: PCS- A Parity-based Personal Data Recovery Service in Cloud
 name: Cluster Computing
@@ -12,3 +13,4 @@ categories:
 	- Distributed/High-Performance/Mobile Computing Systems
 tag: 
 	- International Journal
+---

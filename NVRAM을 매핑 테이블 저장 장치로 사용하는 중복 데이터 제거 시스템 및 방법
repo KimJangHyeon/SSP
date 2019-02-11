@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: NVRAMÀ» ¸ÅÇÎ Å×ÀÌºí ÀúÀå ÀåÄ¡·Î »ç¿ëÇÏ´Â Áßº¹ µ¥ÀÌÅÍ Á¦°Å ½Ã½ºÅÛ ¹× ¹æ¹ı
-name: ´ëÇÑ¹Î±¹
-first-author: ÃÖÁ¾¹«
-co-authors: ±èÁ¾È­, °­¼ö¿ë, ¿øÀ¯Áı, Â÷ÀçÇõ, À±¼º·Î
-during: µî·Ï¹øÈ£ 10-1350132
+title: NVRAMì„ ë§¤í•‘ í…Œì´ë¸” ì €ì¥ ì¥ì¹˜ë¡œ ì‚¬ìš©í•˜ëŠ” ì¤‘ë³µ ë°ì´í„° ì œê±° ì‹œìŠ¤í…œ ë° ë°©ë²•
+name: ëŒ€í•œë¯¼êµ­
+first-author: ìµœì¢…ë¬´
+co-authors: ê¹€ì¢…í™”, ê°•ìˆ˜ìš©, ì›ìœ ì§‘, ì°¨ì¬í˜, ìœ¤ì„±ë¡œ
+during: ë“±ë¡ë²ˆí˜¸ 10-1350132
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Patents
+---

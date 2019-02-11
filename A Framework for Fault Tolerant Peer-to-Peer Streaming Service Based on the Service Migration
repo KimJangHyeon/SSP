@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: A Framework for Fault Tolerant Peer-to-Peer Streaming Service Based on the Service Migration
 name: Computer Systems Science and Engineering
@@ -12,3 +13,4 @@ categories:
 	- Multimedia Systems
 tag: 
 	- International Journal
+---

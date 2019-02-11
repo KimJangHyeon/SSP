@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 import requests
 from bs4 import BeautifulSoup
 
@@ -51,8 +52,10 @@ def write_file(path, cate, tag, fir, co, title, name, location):
     global count
     title = title.replace(':', '-')
     title = title.replace('/', '-')
-    f = open(path + title, 'w')
-    data = "layout: publication-single"
+    f = open(path + title, 'w', encoding="utf-8")
+    data = "---"
+    f.write(data)
+    data = "\nlayout: publication-single"
     f.write(data)
     data = "\ntitle: " + title
     f.write(data)
@@ -69,6 +72,8 @@ def write_file(path, cate, tag, fir, co, title, name, location):
     data = '\ncategories: \n\t- ' + cate
     f.write(data)
     data = '\ntag: \n\t- ' + tag
+    f.write(data)
+    data = '\n---'
     f.write(data)
     count += 1
     f.close()

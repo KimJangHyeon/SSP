@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: SSD¸¦ À§ÇÑ ·Î±× ±â¹İ ÆÄÀÏ½Ã½ºÅÛÀÇ °³¼±
-name: ÇÑ±¹Á¤º¸Ã³¸®ÇĞÈ¸ Ãá°èÇĞ¼ú¹ßÇ¥´ëÈ¸
-first-author: ±â¾ÈÈ£
-co-authors: ¹Ú¼º¹Î, °­¼ö¿ë
-during: 2010³â 4¿ù
+title: SSDë¥¼ ìœ„í•œ ë¡œê·¸ ê¸°ë°˜ íŒŒì¼ì‹œìŠ¤í…œì˜ ê°œì„ 
+name: í•œêµ­ì •ë³´ì²˜ë¦¬í•™íšŒ ì¶˜ê³„í•™ìˆ ë°œí‘œëŒ€íšŒ
+first-author: ê¸°ì•ˆí˜¸
+co-authors: ë°•ì„±ë¯¼, ê°•ìˆ˜ìš©
+during: 2010ë…„ 4ì›”
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Domestic Conference
+---

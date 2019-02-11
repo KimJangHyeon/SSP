@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: ÇÃ·¡½¬¸Þ¸ð¸® ±â¹Ý ÀúÀå½Ã½ºÅÛÀÇ ¼º´É ºÐ¼®À» À§ÇÑ I-O Æ®·¹ÀÌ½º °¡½ÃÈ­ µµ±¸ °³¹ß
-name: ÇÑ±¹Á¤º¸°úÇÐÈ¸ Ãß°èÇÐ¼ú¹ßÇ¥´ëÈ¸ ³í¹®Áö
-first-author: À±°æÈÆ
-co-authors: Á¤È£¿µ, ¹Ú¼º¹Î, Â÷ÀçÇõ, °­¼ö¿ë
-during: 2006³â 10¿ù
+title: í”Œëž˜ì‰¬ë©”ëª¨ë¦¬ ê¸°ë°˜ ì €ìž¥ì‹œìŠ¤í…œì˜ ì„±ëŠ¥ ë¶„ì„ì„ ìœ„í•œ I-O íŠ¸ë ˆì´ìŠ¤ ê°€ì‹œí™” ë„êµ¬ ê°œë°œ
+name: í•œêµ­ì •ë³´ê³¼í•™íšŒ ì¶”ê³„í•™ìˆ ë°œí‘œëŒ€íšŒ ë…¼ë¬¸ì§€
+first-author: ìœ¤ê²½í›ˆ
+co-authors: ì •í˜¸ì˜, ë°•ì„±ë¯¼, ì°¨ìž¬í˜, ê°•ìˆ˜ìš©
+during: 2006ë…„ 10ì›”
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Domestic Conference
+---

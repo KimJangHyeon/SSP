@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Demo- CollaboRoid for Mobile Collaborative Applications
 name: The 14th ACM International Conference on Mobile Systems
@@ -12,3 +13,4 @@ categories:
 	- Distributed/High-Performance/Mobile Computing Systems
 tag: 
 	- International Conference
+---

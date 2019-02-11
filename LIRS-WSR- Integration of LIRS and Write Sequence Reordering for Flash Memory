@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: LIRS-WSR- Integration of LIRS and Write Sequence Reordering for Flash Memory
 name: ICCSA 2007
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- International Conference
+---

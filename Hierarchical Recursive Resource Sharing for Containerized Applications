@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Hierarchical Recursive Resource Sharing for Containerized Applications
 name: International Conference on Service Oriented Computing (ICSOC 2018)
@@ -12,3 +13,4 @@ categories:
 	- Distributed/High-Performance/Mobile Computing Systems
 tag: 
 	- International Conference
+---

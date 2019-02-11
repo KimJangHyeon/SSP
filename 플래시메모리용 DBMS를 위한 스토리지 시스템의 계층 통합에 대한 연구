@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: ÇÃ·¡½Ã¸Ş¸ğ¸®¿ë DBMS¸¦ À§ÇÑ ½ºÅä¸®Áö ½Ã½ºÅÛÀÇ °èÃş ÅëÇÕ¿¡ ´ëÇÑ ¿¬±¸
-name: µğÁöÅĞÄÜÅÙÃ÷ÇĞÈ¸ ³í¹®Áö
-first-author: ½ÉÈ¿±â
-co-authors: Á¤È£¿µ, ¹Ú¼º¹Î, À±°æÈÆ, Â÷ÀçÇõ, °­¼ö¿ë
-during: 2007³â 12¿ù
+title: í”Œë˜ì‹œë©”ëª¨ë¦¬ìš© DBMSë¥¼ ìœ„í•œ ìŠ¤í† ë¦¬ì§€ ì‹œìŠ¤í…œì˜ ê³„ì¸µ í†µí•©ì— ëŒ€í•œ ì—°êµ¬
+name: ë””ì§€í„¸ì½˜í…ì¸ í•™íšŒ ë…¼ë¬¸ì§€
+first-author: ì‹¬íš¨ê¸°
+co-authors: ì •í˜¸ì˜, ë°•ì„±ë¯¼, ìœ¤ê²½í›ˆ, ì°¨ì¬í˜, ê°•ìˆ˜ìš©
+during: 2007ë…„ 12ì›”
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Domestic Journal
+---

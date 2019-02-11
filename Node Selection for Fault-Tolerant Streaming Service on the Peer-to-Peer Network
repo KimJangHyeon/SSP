@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Node Selection for Fault-Tolerant Streaming Service on the Peer-to-Peer Network
 name: Proceedings of the 4th IEEE International Conference on Multimedia & Expo.(ICME'2003)
@@ -12,3 +13,4 @@ categories:
 	- Multimedia Systems
 tag: 
 	- International Conference
+---

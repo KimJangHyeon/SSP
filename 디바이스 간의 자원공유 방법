@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: µğ¹ÙÀÌ½º °£ÀÇ ÀÚ¿ø°øÀ¯ ¹æ¹ı
-name: ´ëÇÑ¹Ì±¹
-first-author: °­¼ö¿ë
-co-authors: ÀÌÀçÈÆ, ÀÌÈ£Ã¶
-during: µî·Ï¹øÈ£ 10-1928368
+title: ë””ë°”ì´ìŠ¤ ê°„ì˜ ìì›ê³µìœ  ë°©ë²•
+name: ëŒ€í•œë¯¸êµ­
+first-author: ê°•ìˆ˜ìš©
+co-authors: ì´ì¬í›ˆ, ì´í˜¸ì² 
+during: ë“±ë¡ë²ˆí˜¸ 10-1928368
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Distributed/High-Performance/Mobile Computing Systems
 tag: 
 	- Patents
+---

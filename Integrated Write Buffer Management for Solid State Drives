@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Integrated Write Buffer Management for Solid State Drives
 name: Journal of Systems Architecture
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- International Journal
+---

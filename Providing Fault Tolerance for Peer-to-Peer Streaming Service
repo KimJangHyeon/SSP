@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Providing Fault Tolerance for Peer-to-Peer Streaming Service
 name: Proceedings of the 6th IEEE International Conference on High Speed Networks and Multimedia Communications(HSNMC'03)
@@ -12,3 +13,4 @@ categories:
 	- Multimedia Systems
 tag: 
 	- International Conference
+---

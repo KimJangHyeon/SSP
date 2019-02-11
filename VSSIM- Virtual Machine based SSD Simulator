@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: VSSIM- Virtual Machine based SSD Simulator
 name: IEEE Mass Storage Systems and Technologies (MSST) 2013
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- International Conference
+---

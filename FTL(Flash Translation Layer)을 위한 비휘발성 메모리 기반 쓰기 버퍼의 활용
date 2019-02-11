@@ -1,9 +1,10 @@
+---
 layout: publication-single
-title: FTL(Flash Translation Layer)À» À§ÇÑ ºñÈÖ¹ß¼º ¸Ş¸ğ¸® ±â¹İ ¾²±â ¹öÆÛÀÇ È°¿ë
-name: ÇÑ±¹Á¤º¸°úÇĞÈ¸ Ãß°èÇĞ¼ú¹ßÇ¥´ëÈ¸ ³í¹®Áö
-first-author: ¹Ú¼º¹Î
-co-authors: Á¤È£¿µ, À±°æÈÆ, Â÷ÀçÇõ, °­¼ö¿ë
-during: 2006³â 10¿ù
+title: FTL(Flash Translation Layer)ì„ ìœ„í•œ ë¹„íœ˜ë°œì„± ë©”ëª¨ë¦¬ ê¸°ë°˜ ì“°ê¸° ë²„í¼ì˜ í™œìš©
+name: í•œêµ­ì •ë³´ê³¼í•™íšŒ ì¶”ê³„í•™ìˆ ë°œí‘œëŒ€íšŒ ë…¼ë¬¸ì§€
+first-author: ë°•ì„±ë¯¼
+co-authors: ì •í˜¸ì˜, ìœ¤ê²½í›ˆ, ì°¨ì¬í˜, ê°•ìˆ˜ìš©
+during: 2006ë…„ 10ì›”
 location: 
 impactfactor: 
 doi: 
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- Domestic Conference
+---

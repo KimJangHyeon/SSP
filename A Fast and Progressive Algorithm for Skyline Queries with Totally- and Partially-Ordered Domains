@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: A Fast and Progressive Algorithm for Skyline Queries with Totally- and Partially-Ordered Domains
 name: Journal of Systems and Software
@@ -12,3 +13,4 @@ categories:
 	- Distributed/High-Performance/Mobile Computing Systems
 tag: 
 	- International Journal
+---

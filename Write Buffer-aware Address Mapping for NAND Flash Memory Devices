@@ -1,3 +1,4 @@
+---
 layout: publication-single
 title: Write Buffer-aware Address Mapping for NAND Flash Memory Devices
 name: IEEE/ACM MASCOTS 2008
@@ -12,3 +13,4 @@ categories:
 	- Flash Memory and Non-Volatile RAM
 tag: 
 	- International Conference
+---
