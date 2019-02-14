@@ -17,6 +17,7 @@ def titles_parser(cate, tag, tar):
     tag = tag[1: len(tag)]
     tar = tar.split('\n')
 
+    old_title = ""
     for line in tar:
         if not tar:
             continue
@@ -38,6 +39,8 @@ def titles_parser(cate, tag, tar):
         line = line[end_index + 2: len(line)]
         location = line
 
+
+
         print(cate)
         print(tag)
         print(fir_author)
@@ -45,16 +48,27 @@ def titles_parser(cate, tag, tar):
         print(title)
         print(name)
         print(location)
-        write_file(path, cate, tag, fir_author, co_author, title, name, location)
+        write_file(path, cate, tag, fir_author, co_author, old_title, title, name, location)
+        old_title = title
         print('****************************')
 
-def write_file(path, cate, tag, fir, co, title, name, location):
+def write_file(path, cate, tag, fir, co, old_title, title, name, location):
     global count
-    title = title.replace('/', )
+
     ptitle = title.replace(':', '-')
     ptitle = ptitle.replace('/', '-')
     ptitle = ptitle.replace(' ', '-')
-    f = open(path + ptitle, 'w', encoding="utf-8")
+
+    pold_title = old_title.replace(':', '-')
+    pold_title = pold_title.replace('/', '-')
+    pold_title = pold_title.replace(' ', '-')
+
+    alpha = ""
+
+    if pold_title == ptitle:
+        alpha = "1"
+
+    f = open(path + ptitle + alpha, 'w', encoding="utf-8")
     data = "---"
     f.write(data)
     data = "\nlayout: publication-single"
